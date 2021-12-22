@@ -1,5 +1,5 @@
 # music-bot
 Music bot created via Discord.JS
 
-**clone repo**/n
+**clone repo**<br/>
 **node index.js**
